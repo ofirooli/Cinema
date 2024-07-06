@@ -1,0 +1,123 @@
+[{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ecf9"
+  },
+  "Name": "The Shawshank Redemption",
+  "Genres": [
+    "Drama"
+  ],
+  "YearPremiered": 1994,
+  "imageUrl": "https://i.ebayimg.com/images/g/McUAAOSw~e5ZW~ee/s-l1600.jpg"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ecfa"
+  },
+  "Name": "The Godfather",
+  "Genres": [
+    "Crime",
+    "Drama"
+  ],
+  "YearPremiered": 1972,
+  "imageUrl": "https://i.ebayimg.com/images/g/X~cAAOSwz2ZiaB2w/s-l1600.jpg"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ecfb"
+  },
+  "Name": "Pulp Fiction",
+  "Genres": [
+    "Crime",
+    "Drama"
+  ],
+  "YearPremiered": 1994,
+  "imageUrl": "https://i5.walmartimages.com/asr/2dce7fcd-732d-4114-a567-f7b46f867c60.d42d076d9b8b9c353ca2a35a409f3653.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ecfc"
+  },
+  "Name": "The Dark Knight",
+  "Genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "YearPremiered": 2008,
+  "imageUrl": "https://www.movieposters.com/cdn/shop/products/d3401e97e249c56ed1c11a13dd02b47f_500x.jpg?v=1573652550"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ecfd"
+  },
+  "Name": "Schindler's List",
+  "Genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "YearPremiered": 1993,
+  "imageUrl": "https://m.media-amazon.com/images/I/71rbBMGBBJL._AC_SL1500_.jpg"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ecfe"
+  },
+  "Name": "Forrest Gump",
+  "Genres": [
+    "Drama",
+    "Romance"
+  ],
+  "YearPremiered": 1994,
+  "imageUrl": "https://i.pinimg.com/736x/20/a4/16/20a416ed335a94ed2e535e3ad5def5af.jpg"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ecff"
+  },
+  "Name": "The Lord of the Rings: The Return of the King",
+  "Genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "YearPremiered": 2003,
+  "imageUrl": "https://i.ebayimg.com/images/g/ARoAAOSwxs9jxaXM/s-l1600.jpg"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ed00"
+  },
+  "Name": "Inception",
+  "Genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "YearPremiered": 2010,
+  "imageUrl": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2919271/5944675/MOVEB46211__19379.1679590452.jpg?c=2"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ed01"
+  },
+  "Name": "Fight Club",
+  "Genres": [
+    "Drama"
+  ],
+  "YearPremiered": 1999,
+  "imageUrl": "https://i.etsystatic.com/18242346/r/il/c9908e/2412674268/il_570xN.2412674268_1sgm.jpg"
+},
+{
+  "_id": {
+    "$oid": "667531c6da6d3e36e8a3ed02"
+  },
+  "Name": "Goodfellas",
+  "Genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "YearPremiered": 1990,
+  "imageUrl": "https://m.media-amazon.com/images/I/61J45UkzoJL._AC_UF894,1000_QL80_.jpg"
+}]

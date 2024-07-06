@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "66753305da6d3e36e8a3ed10"
+  },
+  "Username": "Imagine64",
+  "Password": "123",
+  "FullName": "John Lennon"
+},
+{
+  "_id": {
+    "$oid": "66753305da6d3e36e8a3ed11"
+  },
+  "Username": "HeyJude72",
+  "Password": "456",
+  "FullName": "Paul McCartney"
+},
+{
+  "_id": {
+    "$oid": "66753305da6d3e36e8a3ed12"
+  },
+  "Username": "HereComesTheSun78",
+  "Password": "789",
+  "FullName": "George Harrison"
+},
+{
+  "_id": {
+    "$oid": "66753305da6d3e36e8a3ed13"
+  },
+  "Username": "YellowSubmarine65",
+  "Password": "000",
+  "FullName": "Richard Starkey"
+}]

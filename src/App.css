@@ -1,0 +1,107 @@
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Global styles */
+body {
+  font-family: 'Comic Sans MS', cursive; /* Set Comic Sans MS as the default font */
+  background-color: #f0f0f0; /* Light gray background */
+  padding-top: 60px; /* Add padding-top to account for fixed navbar height */
+}
+
+/* Navigation styles */
+nav {
+  position: fixed; /* Fix the navigation bar at the top */
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #333; /* Dark background color */
+  color: #fff; /* Text color */
+  padding: 10px 20px; /* Padding around the navigation */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000; /* Ensure the navigation bar is above other content */
+}
+
+nav h1 {
+  margin: 0; /* Remove default margin */
+  font-size: 1.8rem; /* Larger font size for title */
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+}
+
+nav ul li {
+  margin-right: 15px; /* Spacing between navigation items */
+}
+
+nav a {
+  color: #fff; /* Text color */
+  text-decoration: none; /* Remove underline */
+  font-size: 1.2rem; /* Font size */
+  transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+nav a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Container for page content */
+.main-content {
+  margin-top: 80px; /* Space below the fixed navbar */
+  padding: 20px; /* Padding around the content */
+  background-color: #fff; /* White background for content */
+  border: 1px solid #ddd; /* Border around content */
+  border-radius: 5px; /* Rounded corners */
+}
+
+/* Button styles */
+button {
+  padding: 10px 20px; /* Padding inside the button */
+  font-size: 1rem; /* Font size */
+  background-color: #007bff; /* Button background color */
+  color: #fff; /* Text color */
+  border: none; /* Remove border */
+  cursor: pointer; /* Cursor style */
+  transition: background-color 0.3s ease; /* Smooth transition for background color */
+  margin-right: 10px; /* Space between buttons */
+}
+
+button:last-child {
+  margin-right: 0; /* No margin on the last button */
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker background color on hover */
+}
+
+/* Input styles */
+input[type="text"], input[type="number"], textarea {
+  padding: 6px; /* Padding inside the input */
+  font-size: 1rem; /* Smaller font size */
+  border: 1px solid #ddd; /* Border */
+  border-radius: 4px; /* Rounded corners */
+  margin-bottom: 10px; /* Space below inputs */
+  width: calc(100% / 4 - 10px); /* One-third width minus space for margins */
+}
+
+input[type="text"]:focus, input[type="number"]:focus, textarea:focus {
+  outline: none; /* Remove default focus outline */
+  border-color: #007bff; /* Border color on focus */
+}
+
+.input-email {
+  padding: 6px; /* Adjust padding for email input */
+  font-size: 1rem; /* Font size */
+  border: 1px solid #ccc; /* Border color */
+  border-radius: 4px; /* Rounded corners */
+  box-sizing: border-box; /* Include padding and border in element's total width */
+  width: calc(100% / 4 - 10px) /* Full width */
+}
+

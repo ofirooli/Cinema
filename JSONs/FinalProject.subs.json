@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6675339bda6d3e36e8a3ed1e"
+  },
+  "MovieID": "667531c6da6d3e36e8a3ecf9",
+  "MemberID": "667531d6da6d3e36e8a3ed04",
+  "Date": "01.05.24"
+},
+{
+  "_id": {
+    "$oid": "6675339bda6d3e36e8a3ed1f"
+  },
+  "MovieID": "667531c6da6d3e36e8a3ecfb",
+  "MemberID": "667531d6da6d3e36e8a3ed05",
+  "Date": "10.05.24"
+},
+{
+  "_id": {
+    "$oid": "6675339bda6d3e36e8a3ed20"
+  },
+  "MovieID": "667531c6da6d3e36e8a3ecfd",
+  "MemberID": "667531d6da6d3e36e8a3ed06",
+  "Date": "15.05.24"
+},
+{
+  "_id": {
+    "$oid": "6675339bda6d3e36e8a3ed21"
+  },
+  "MovieID": "667531c6da6d3e36e8a3ed00",
+  "MemberID": "667531d6da6d3e36e8a3ed07",
+  "Date": "20.05.24"
+}]
